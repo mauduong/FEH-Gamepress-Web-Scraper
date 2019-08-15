@@ -1,6 +1,8 @@
 # FEH Gamepress Web Scraper
 A basic web scraper script that parses data from fireemblem.gamepress.gg
 
+*NOTE: The web scraper is out of date. Planning to update soon.
+
 Currently scrapes (if applicable):
 - Hero Name
 - Hero Title
